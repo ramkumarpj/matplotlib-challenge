@@ -1,7 +1,6 @@
-# Pymaceuticals Inc.
---------------------------------
+# Matplotlib Challenge
 
-## Analysis
+# Pymaceuticals Analysis
 
 #### Overview:
 A complete data set from a most recent animal study is provided. 
