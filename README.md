@@ -60,3 +60,5 @@ The correlation between mouse weight and the average tumor volume is 0.84
 * Open "Pymaceuticals/pymaceuticals_starter.ipynb" file using Jupyter Notebook
 * Click on 'Cell > Run All' to run
 
+# Disclaimer
+This repo was published for educational purpose only. Copyright 2023-2024 edX Boot Camps LLC. All rights reserved.
